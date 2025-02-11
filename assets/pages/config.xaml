@@ -31,7 +31,7 @@
         <Button x:Name="SaveConfigButton" Content="Save Config" Width="415" Height="23" Margin="0,185,60,0" VerticalAlignment="Top" HorizontalAlignment="Right"/>
 
         <!-- add credits on the left side bottom -->
-        <Label x:Name="CreditsLabel" Content="© 2021 Redbox Inventory | Developed by Team 3" FontSize="10" Margin="20,0,0,10" VerticalAlignment="Bottom" HorizontalAlignment="Left"/>
+        <Label x:Name="CreditsLabel" Content="© 2025 Brian Walczak" FontSize="10" Margin="20,0,0,10" VerticalAlignment="Bottom" HorizontalAlignment="Left"/>
         <Button x:Name="LoadConfigButton" Content="Load Config" Width="98" Height="23" Margin="0,0,125,17.5" VerticalAlignment="Bottom" HorizontalAlignment="Right"/>
         <Button x:Name="StartButton" Content="Start" Width="98" Height="23" Margin="0,0,20,17.5" VerticalAlignment="Bottom" HorizontalAlignment="Right" IsEnabled="False" />
     </Grid>
