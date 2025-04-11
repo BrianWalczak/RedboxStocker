@@ -28,7 +28,7 @@ If you'd like to integrate this project in your own system, you can skip the ini
 ## Contributions
 If you'd like to contribute to this project, please create a pull request [here](https://github.com/BrianWalczak/RedboxStocker/pulls). You can submit your feedback or any bugs that you find, on our <a href='https://github.com/BrianWalczak/RedboxStocker/issues'>issues page</a>. Contributions are highly appreciated and will help us keep this project up-to-date!
 
-If you'd like to support this project and its development, you can send me a donation <a href='https://buymeacoffee.com/briann'>here</a> :)
+If you'd like to support this project and its development, you can send me a donation <a href='https://ko-fi.com/brianwalczak'>here</a> :)
 
 <br>
   <p align="center">Made with ♡ by <a href="https://www.brianwalczak.com">Briann</a></p>
